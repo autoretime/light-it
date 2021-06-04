@@ -1,0 +1,24 @@
+.TrackItem {
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 4fr 2fr 1fr;
+    grid-gap: 2px;
+    font-size: 14px;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    color: rgba(0, 0, 0, .8);
+}
+
+.TrackItem div {
+    margin: auto 0;
+}
+
+.odd {
+    background: #97BBBE6B;
+}
+
+.expandCollapseButton {
+    margin: auto;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bolder;
+}

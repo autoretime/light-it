@@ -1,0 +1,7 @@
+.NoTracks {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    color: rgba(0, 0, 0, .8);
+}

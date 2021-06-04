@@ -1,0 +1,7 @@
+.TrackList {
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 4fr 2fr 1fr;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    padding: 0 10px;
+}

@@ -1,0 +1,5 @@
+iTunes API docs: https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
+
+https://itunes.apple.com/search?limit=12&explicit=no&term=the+beatles&entity=song&attributes=songTerm
+
+&attribute=songTerm
